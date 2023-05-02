@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/monsters
+
+{
+    nombre: "Mothra",
+    tipo: "Kaiju",
+    altura: "30 metros",
+    color: "Amarillo",
+    texturaPiel: "Escamosa"
+} 
